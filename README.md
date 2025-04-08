@@ -27,7 +27,8 @@ Este projeto é uma página interativa que apresenta personagens fictícios com 
 ## Como Roda o projeto
 
 
-content://media/external/downloads/1000188764
+![Preview 1](./src/imagens/preview.png)  
+![Preview 2](./src/imagens/preview2.png)
 
 ## Créditos
  
